@@ -1,16 +1,3 @@
-# Javasctipt-beginners project
-
-### In this 
-
-## PROJECT 1
-
-### In this project we are learninng about the core concept of js like querySelector and EventListener.
-
-Try clicking on one of the colors 
-to change the background color of the page!
-
-```js code
-
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 // console.log(e);
@@ -38,5 +25,3 @@ buttons.forEach(function (button) {
     
   });
 });
-
-```
