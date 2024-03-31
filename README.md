@@ -1,1 +1,1 @@
-# Javasctipt-learning
+# Javasctipt-beginners project
