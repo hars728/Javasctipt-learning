@@ -22,6 +22,5 @@ buttons.forEach(function (button) {
     if (e.target.id === 'twoone') {
       body.style.backgroundColor ='#212121' ;
     }
-    
   });
 });
