@@ -303,3 +303,10 @@ window.addEventListener('keydown', (e) => {
 });
 
   ```
+
+  #Project 07 
+
+  ### changing html text using js with simple project
+
+  In this project if we click the left button ,the apple count will increase in left basket and 
+  if we click the rigth button the apple count will increase in the right basket.
